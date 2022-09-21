@@ -1,1 +1,1 @@
-# .github
+Cheat Tables and other projects maintained by our community.
